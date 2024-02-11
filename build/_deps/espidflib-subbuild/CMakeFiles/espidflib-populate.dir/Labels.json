@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/CMakeFiles/espidflib-populate"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/CMakeFiles/espidflib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/CMakeFiles/espidflib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/ansam/Documents/github/blink/build/_deps/espidflib-subbuild/espidflib-populate-prefix/src/espidflib-populate-stamp/espidflib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"espidflib-populate"
+		],
+		"name" : "espidflib-populate"
+	}
+}
